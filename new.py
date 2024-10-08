@@ -6,3 +6,4 @@ class Car:
 C1 = Car(model,color)
 print(C1.model,C1.color)
   
+print("My name is Aftab J")
